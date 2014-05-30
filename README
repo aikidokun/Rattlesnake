@@ -1,4 +1,8 @@
-Current function: continuously calls back on predetermined IP/PORT untill it finds a listener, once connected a splat of garbage across screen(needs fix) then allows for shell interaction. The quit command exits the connection via a EOF error and implant goes back into continuous callback behavior until a new listener of same IP/PORT pair appear again.
+Current function: continuously calls back on predetermined IP/PORT untill it finds a listener, once connected a splat of garbage across 
+
+screen(needs fix) then allows for shell interaction. The quit command exits the connection via a EOF error and implant goes back into 
+
+continuous callback behavior until a new listener of same IP/PORT pair appear again.
 
 
 Todo: 
